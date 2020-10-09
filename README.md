@@ -1,6 +1,8 @@
 # TowerOfHanoi
 The Tower of Tanoi puzzle written Elm
 
+[README em português](README.pt-br.md)
+
 [Play!](https://tower-of-hanoi-elm.netlify.app/)
 
 ![Screenshot](images/screenshot.png)
